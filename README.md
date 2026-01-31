@@ -6,6 +6,12 @@ A real-time solar energy monitoring dashboard built with Next.js, featuring beau
 ![Next.js](https://img.shields.io/badge/Next.js-16.0-black)
 ![React](https://img.shields.io/badge/React-19.2-blue)
 
+## 📸 Preview
+
+![Solar Energy Dashboard](./dashboarddemo.png)
+
+*Real-time energy flow visualization with animated particles showing power transfer between solar panels, battery, house, and grid.*
+
 ## ✨ Features
 
 - **Real-time Energy Flow Visualization**: Animated energy flows between solar panels, battery, house, and grid
